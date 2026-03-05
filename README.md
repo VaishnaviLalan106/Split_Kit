@@ -52,18 +52,6 @@ Example:
 https://vaishnavilalan106.github.io/Split_Kit/
 ```
 
----
-
-## 📂 Project Structure
-
-```
-Split_Kit
-│
-├── index.html
-├── README.md
-```
-
----
 
 ## 👩‍💻 Author
 
