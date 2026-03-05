@@ -43,14 +43,12 @@ Add expenses, track who paid, and instantly see who owes whom — all in a soft 
 4. The app will automatically show **who owes whom**
 
 ---
-
 ## 🌐 Live Demo
 
-```
-🚀 [Open SplitKit](https://vaishnavilalan106.github.io/Split_Kit/)
+🚀 **Try the app here:**  
+[Open SplitKit](https://vaishnavilalan106.github.io/Split_Kit/)
 
-```
-
+---
 
 ## 👩‍💻 Author
 
