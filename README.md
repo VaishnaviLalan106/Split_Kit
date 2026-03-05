@@ -46,9 +46,8 @@ Add expenses, track who paid, and instantly see who owes whom — all in a soft 
 
 ## 🌐 Live Demo
 
-Example:
-
 ```
+🚀 Try Split Kit here:  
 https://vaishnavilalan106.github.io/Split_Kit/
 ```
 
