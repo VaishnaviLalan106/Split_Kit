@@ -29,7 +29,7 @@ Add expenses, track who paid, and instantly see who owes whom — all in a soft 
 ## 🎨 UI Preview
 
 <p align="center">
-  <img src="Demo.png" width="45%" style="margin-bottom: 360px;">
+  <img src="Demo.png" width="45%" style="margin-bottom:360px;">
   <img src="Demo1.png" width="45%">
 </p>
 
