@@ -31,7 +31,8 @@ Add expenses, track who paid, and instantly see who owes whom — all in a soft 
 Example:
 
 ```
-![Split Kit Screenshot](screenshot.png)
+![Split Kit Screenshot](Demo.png)
+![Split Kit Screenshot](Demo1.png)
 ```
 
 ---
